@@ -1,0 +1,1 @@
+npm i html5-qrcode
